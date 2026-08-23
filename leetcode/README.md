@@ -8,29 +8,34 @@ Progresso de estudo dos exercícios do [Top Interview 150](https://leetcode.com/
 
 ## Índice
 
-- [Array / String](#array--string)
-- [Two Pointers](#two-pointers)
-- [Sliding Window](#sliding-window)
-- [Matrix](#matrix)
-- [Hashmap](#hashmap)
-- [Intervals](#intervals)
-- [Stack](#stack)
-- [Linked List](#linked-list)
-- [Binary Tree General](#binary-tree-general)
-- [Binary Tree BFS](#binary-tree-bfs)
-- [Binary Search Tree](#binary-search-tree)
-- [Graph General](#graph-general)
-- [Graph BFS](#graph-bfs)
-- [Trie](#trie)
-- [Backtracking](#backtracking)
-- [Divide & Conquer](#divide--conquer)
-- [Kadane's Algorithm](#kadanes-algorithm)
-- [Binary Search](#binary-search)
-- [Heap](#heap)
-- [Bit Manipulation](#bit-manipulation)
-- [Math](#math)
-- [1D DP](#1d-dp)
-- [Multidimensional DP](#multidimensional-dp)
+- [LeetCode — Top Interview 150](#leetcode--top-interview-150)
+  - [Progresso](#progresso)
+  - [Índice](#índice)
+  - [Array / String](#array--string)
+  - [Two Pointers](#two-pointers)
+  - [Sliding Window](#sliding-window)
+  - [Matrix](#matrix)
+  - [Hashmap](#hashmap)
+  - [Intervals](#intervals)
+  - [Stack](#stack)
+  - [Linked List](#linked-list)
+  - [Binary Tree General](#binary-tree-general)
+  - [Binary Tree BFS](#binary-tree-bfs)
+  - [Binary Search Tree](#binary-search-tree)
+  - [Graph General](#graph-general)
+  - [Graph BFS](#graph-bfs)
+  - [Trie](#trie)
+  - [Backtracking](#backtracking)
+  - [Divide \& Conquer](#divide--conquer)
+  - [Kadane's Algorithm](#kadanes-algorithm)
+  - [Binary Search](#binary-search)
+  - [Heap](#heap)
+  - [Bit Manipulation](#bit-manipulation)
+  - [Math](#math)
+  - [1D DP](#1d-dp)
+  - [Multidimensional DP](#multidimensional-dp)
+  - [Fora do Top 150](#fora-do-top-150)
+  - [Rascunhos / Tentativas](#rascunhos--tentativas)
 
 ---
 
@@ -52,11 +57,11 @@ Progresso de estudo dos exercícios do [Top Interview 150](https://leetcode.com/
 - [ ] Gas Station — Medium
 - [ ] Candy — Hard
 - [ ] Trapping Rain Water — Hard
-- [ ] Roman to Integer — Easy
+- [x] Roman to Integer — Easy
 - [ ] Integer to Roman — Medium
 - [x] [Length of Last Word](array-string/length-of-last-word.js) — Easy
 - [x] [Longest Common Prefix](array-string/longest-common-prefix.js) — Easy
-- [ ] Reverse Words in a String — Medium
+- [x] Reverse Words in a String — Medium
 - [ ] Zigzag Conversion — Medium
 - [x] [Find the Index of the First Occurrence in a String](array-string/find-the-index-of-the-first-occurrence-in-a-string.js) — Easy
 - [ ] Text Justification — Hard
@@ -242,7 +247,7 @@ Progresso de estudo dos exercícios do [Top Interview 150](https://leetcode.com/
 ## 1D DP
 
 - [x] [Climbing Stairs](1d-dp/climbing-stairs.js) — Easy
-- [ ] House Robber — Medium
+- [x] House Robber — Medium
 - [ ] Word Break — Medium
 - [ ] Coin Change — Medium
 - [ ] Longest Increasing Subsequence — Medium
