@@ -1,15 +1,10 @@
 # LeetCode — Top Interview 150
 
-Progresso de estudo dos exercícios do [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/).
-
-## Progresso
-
-- **Resolvidos:** 33 / 150
+Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/).
 
 ## Índice
 
 - [LeetCode — Top Interview 150](#leetcode--top-interview-150)
-  - [Progresso](#progresso)
   - [Índice](#índice)
   - [Array / String](#array--string)
   - [Two Pointers](#two-pointers)
@@ -109,7 +104,7 @@ Progresso de estudo dos exercícios do [Top Interview 150](https://leetcode.com/
 
 ## Intervals
 
-- [ ] Summary Ranges — Easy
+- [x] Summary Ranges — Easy
 - [ ] Merge Intervals — Medium
 - [ ] Insert Interval — Medium
 - [ ] Minimum Number of Arrows to Burst Balloons — Medium
