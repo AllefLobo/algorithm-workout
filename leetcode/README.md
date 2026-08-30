@@ -141,7 +141,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [ ] Construct Binary Tree from Inorder and Postorder Traversal — Medium
 - [ ] Populating Next Right Pointers in Each Node II — Medium
 - [ ] Flatten Binary Tree to Linked List — Medium
-- [ ] Path Sum — Easy
+- [x] Path Sum — Easy
 - [ ] Sum Root to Leaf Numbers — Medium
 - [ ] Binary Tree Maximum Path Sum — Hard
 - [ ] Binary Search Tree Iterator — Medium
