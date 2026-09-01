@@ -43,7 +43,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] [Majority Element](array-string/majority-element.js) — Easy
 - [x] [Rotate Array](array-string/rotate-array.js) — Medium
 - [x] [Best Time to Buy and Sell Stock](array-string/best-time-to-buy-and-sell-stock.js) — Easy
-- [ ] Best Time to Buy and Sell Stock II — Medium
+- [x] Best Time to Buy and Sell Stock II — Medium
 - [ ] Jump Game — Medium
 - [ ] Jump Game II — Medium
 - [ ] H-Index — Medium
