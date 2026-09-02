@@ -1,38 +1,6 @@
 # LeetCode — Top Interview 150
 
-Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/).
-
-## Índice
-
-- [LeetCode — Top Interview 150](#leetcode--top-interview-150)
-  - [Índice](#índice)
-  - [Array / String](#array--string)
-  - [Two Pointers](#two-pointers)
-  - [Sliding Window](#sliding-window)
-  - [Matrix](#matrix)
-  - [Hashmap](#hashmap)
-  - [Intervals](#intervals)
-  - [Stack](#stack)
-  - [Linked List](#linked-list)
-  - [Binary Tree General](#binary-tree-general)
-  - [Binary Tree BFS](#binary-tree-bfs)
-  - [Binary Search Tree](#binary-search-tree)
-  - [Graph General](#graph-general)
-  - [Graph BFS](#graph-bfs)
-  - [Trie](#trie)
-  - [Backtracking](#backtracking)
-  - [Divide \& Conquer](#divide--conquer)
-  - [Kadane's Algorithm](#kadanes-algorithm)
-  - [Binary Search](#binary-search)
-  - [Heap](#heap)
-  - [Bit Manipulation](#bit-manipulation)
-  - [Math](#math)
-  - [1D DP](#1d-dp)
-  - [Multidimensional DP](#multidimensional-dp)
-  - [Fora do Top 150](#fora-do-top-150)
-  - [Rascunhos / Tentativas](#rascunhos--tentativas)
-
----
+Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 
 ## Array / String
 
