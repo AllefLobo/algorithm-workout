@@ -59,7 +59,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] Reverse Words in a String — Medium
 - [ ] Zigzag Conversion — Medium
 - [x] [Find the Index of the First Occurrence in a String](array-string/find-the-index-of-the-first-occurrence-in-a-string.js) — Easy
-- [ ] Text Justification — Hard
+- [x] [Text Justification](array-string/text-justification.js) — Hard
 - [ ] Summary Ranges — Easy
 
 ## Two Pointers
