@@ -11,7 +11,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] [Majority Element](array-string/majority-element.js) — Easy
 - [x] [Rotate Array](array-string/rotate-array.js) — Medium
 - [x] [Best Time to Buy and Sell Stock](array-string/best-time-to-buy-and-sell-stock.js) — Easy
-- [x] Best Time to Buy and Sell Stock II — Medium
+- [x] [Best Time to Buy and Sell Stock II](array-string/best-time-to-buy-and-sell-stock-ii.js) — Medium
 - [ ] Jump Game — Medium
 - [ ] Jump Game II — Medium
 - [ ] H-Index — Medium
@@ -20,11 +20,11 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [ ] Gas Station — Medium
 - [ ] Candy — Hard
 - [ ] Trapping Rain Water — Hard
-- [x] Roman to Integer — Easy
+- [ ] Roman to Integer — Easy
 - [ ] Integer to Roman — Medium
 - [x] [Length of Last Word](array-string/length-of-last-word.js) — Easy
 - [x] [Longest Common Prefix](array-string/longest-common-prefix.js) — Easy
-- [x] Reverse Words in a String — Medium
+- [x] [Reverse Words in a String](array-string/reverse-words-in-a-string.js) — Medium
 - [ ] Zigzag Conversion — Medium
 - [x] [Find the Index of the First Occurrence in a String](array-string/find-the-index-of-the-first-occurrence-in-a-string.js) — Easy
 - [x] [Text Justification](array-string/text-justification.js) — Hard
@@ -72,7 +72,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 
 ## Intervals
 
-- [x] Summary Ranges — Easy
+- [x] [Summary Ranges](intervals/summary-ranges.js) — Easy
 - [ ] Merge Intervals — Medium
 - [ ] Insert Interval — Medium
 - [ ] Minimum Number of Arrows to Burst Balloons — Medium
@@ -109,7 +109,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [ ] Construct Binary Tree from Inorder and Postorder Traversal — Medium
 - [ ] Populating Next Right Pointers in Each Node II — Medium
 - [ ] Flatten Binary Tree to Linked List — Medium
-- [x] Path Sum — Easy
+- [x] [Path Sum](binary-tree-general/path-sum.js) — Easy
 - [ ] Sum Root to Leaf Numbers — Medium
 - [ ] Binary Tree Maximum Path Sum — Hard
 - [ ] Binary Search Tree Iterator — Medium
@@ -210,7 +210,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 ## 1D DP
 
 - [x] [Climbing Stairs](1d-dp/climbing-stairs.js) — Easy
-- [x] House Robber — Medium
+- [x] [House Robber](1d-dp/house-robber.js) — Medium
 - [ ] Word Break — Medium
 - [ ] Coin Change — Medium
 - [ ] Longest Increasing Subsequence — Medium
