@@ -33,7 +33,3 @@ algorithms/
 ## Progresso
 
 Veja o progresso detalhado no [README do LeetCode](leetcode/README.md).
-
----
-
-README gerado com auxílio de [opencode](https://opencode.ai) (deepseek-v4-flash).
