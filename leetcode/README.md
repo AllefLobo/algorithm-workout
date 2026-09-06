@@ -15,7 +15,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [ ] Jump Game — Medium
 - [ ] Jump Game II — Medium
 - [ ] H-Index — Medium
-- [ ] Insert Delete GetRandom O(1) — Medium
+- [x] [Insert Delete GetRandom O(1)](array-string/insert-delete-getrandom-o1.js) — Medium
 - [x] [Product of Array Except Self](array-string/product-of-array-except-self.js) — Medium
 - [ ] Gas Station — Medium
 - [ ] Candy — Hard
@@ -34,7 +34,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 
 - [x] [Valid Palindrome](two-pointers/valid-palindrome.js) — Easy
 - [x] [Is Subsequence](two-pointers/is-subsequence.js) — Easy
-- [ ] Two Sum II - Input Array Is Sorted — Medium
+- [x] Two Sum II - Input Array Is Sorted — Medium
 - [ ] Container With Most Water — Medium
 - [ ] 3Sum — Medium
 - [ ] 3Sum Closest — Medium
