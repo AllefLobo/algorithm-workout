@@ -28,18 +28,14 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] [Zigzag Conversion](array-string/zigzag-conversion.js) — Medium
 - [x] [Find the Index of the First Occurrence in a String](array-string/find-the-index-of-the-first-occurrence-in-a-string.js) — Easy
 - [x] [Text Justification](array-string/text-justification.js) — Hard
-- [ ] Summary Ranges — Easy
 
 ## Two Pointers
 
 - [x] [Valid Palindrome](two-pointers/valid-palindrome.js) — Easy
 - [x] [Is Subsequence](two-pointers/is-subsequence.js) — Easy
 - [x] Two Sum II - Input Array Is Sorted — Medium
-- [ ] Container With Most Water — Medium
+- [x] [Container With Most Water](two-pointers/container-with-most-water.js) — Medium
 - [ ] 3Sum — Medium
-- [ ] 3Sum Closest — Medium
-- [ ] 4Sum — Medium
-- [ ] Valid Triangle Number — Medium
 
 ## Sliding Window
 
