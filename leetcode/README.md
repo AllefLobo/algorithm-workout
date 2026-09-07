@@ -21,7 +21,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [ ] Candy — Hard
 - [ ] Trapping Rain Water — Hard
 - [ ] Roman to Integer — Easy
-- [ ] Integer to Roman — Medium
+- [x] [Integer to Roman](array-string/integer-to-roman.js) — Medium
 - [x] [Length of Last Word](array-string/length-of-last-word.js) — Easy
 - [x] [Longest Common Prefix](array-string/longest-common-prefix.js) — Easy
 - [x] [Reverse Words in a String](array-string/reverse-words-in-a-string.js) — Medium

@@ -5,32 +5,35 @@
 var intToRoman = function (nums) {
   let map = new Map();
   map.set(1, "I");
+  map.set(4, "IV");
   map.set(5, "V");
+  map.set(9, "IX");
   map.set(10, "X");
+  map.set(40, "XL");
   map.set(50, "L");
+  map.set(90, "XC");
   map.set(100, "C");
+  map.set(400, "CD");
   map.set(500, "D");
+  map.set(900, "CM");
   map.set(1000, "M");
-  let values = [1000, 500, 100, 50, 10, 5, 1];
+  let mapV = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
 
-  if (map.has(nums)) {
-    return map.get(nums);
-  }
-
-  count = 0;
-  let a = "";
+  let v = "";
+  let count = 0;
   while (nums > 0) {
-    if (nums - values[count] >= 0) {
-      nums = nums - values[count];
-      a = a + map.get(values[count]);
-      continue;
+    if (nums - mapV[count] >= 0) {
+      nums -= mapV[count];
+      v = v + map.get(mapV[count]);
+    } else {
+      count++;
     }
-    count++;
   }
-  return a;
+  return v;
 };
+
 let nums = 3749;
-console.log(intToRoman(4));
+console.log(intToRoman(nums));
 
 // Example 1:
 
