@@ -35,7 +35,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] [Is Subsequence](two-pointers/is-subsequence.js) — Easy
 - [x] Two Sum II - Input Array Is Sorted — Medium
 - [x] [Container With Most Water](two-pointers/container-with-most-water.js) — Medium
-- [ ] 3Sum — Medium
+- [x] [3Sum](two-pointers/3sum.js) — Medium
 
 ## Sliding Window
 
