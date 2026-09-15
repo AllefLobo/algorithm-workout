@@ -208,7 +208,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] [Climbing Stairs](1d-dp/climbing-stairs.js) — Easy
 - [x] [House Robber](1d-dp/house-robber.js) — Medium
 - [ ] Word Break — Medium
-- [ ] Coin Change — Medium
+- [x] [Coin Change](1d-dp/coin-change.js) — Medium
 - [ ] Longest Increasing Subsequence — Medium
 
 ## Multidimensional DP
