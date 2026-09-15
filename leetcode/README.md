@@ -12,9 +12,9 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] [Rotate Array](array-string/rotate-array.js) — Medium
 - [x] [Best Time to Buy and Sell Stock](array-string/best-time-to-buy-and-sell-stock.js) — Easy
 - [x] [Best Time to Buy and Sell Stock II](array-string/best-time-to-buy-and-sell-stock-ii.js) — Medium
-- [ ] Jump Game — Medium
+- [x] Jump Game — Medium
 - [ ] Jump Game II — Medium
-- [ ] H-Index — Medium
+- [x] H-Index — Medium
 - [x] [Insert Delete GetRandom O(1)](array-string/insert-delete-getrandom-o1.js) — Medium
 - [x] [Product of Array Except Self](array-string/product-of-array-except-self.js) — Medium
 - [ ] Gas Station — Medium
