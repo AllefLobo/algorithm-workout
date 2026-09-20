@@ -196,10 +196,10 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 
 ## Math
 
-- [ ] Palindrome Number — Easy
-- [ ] Plus One — Easy
+- [x] Palindrome Number — Easy
+- [x] Plus One — Easy
 - [ ] Factorial Trailing Zeroes — Medium
-- [ ] Sqrt(x) — Easy
+- [x] Sqrt(x) — Easy
 - [ ] Pow(x, n) — Medium
 - [ ] Max Points on a Line — Hard
 

@@ -8,17 +8,15 @@ function TreeNode(val, left, right) {
  * @param {TreeNode} root
  * @return {number}
  */
-var getMinimumDifference = function (root) {
-  let left =
-    root.left === null
-      ? root.val
-      : Math.abs(root.val - getMinimumDifference(root.left));
-  let right =
-    root.right === null
-      ? root.val
-      : Math.abs(root.val - getMinimumDifference(root.right));
-  console.log(`${left} < ${right} `);
-  return left < right ? left : right;
+var getMinimumDifference = function (root, min = Infinity) {
+  if (root === null || root === undefined) min;
+  if (root.esq === null || root.right) return root.val;
+
+  let minEsq = Math.abs(root.val - root.left.val);
+  let minDir = Math.abs(root.val - root.right.val);
+
+  min = minEsq < min ? minEsq : min;
+  min = min < minDir ? minDir : min;
 };
 
 // let root = [4, 2, 6, 1, 3];
@@ -34,4 +32,5 @@ a1.right = a3;
 a2.left = a4;
 a2.right = a5;
 
-console.log(getMinimumDifference(a1));
+console.log(a4);
+console.log(getMinimumDifference(a4));
