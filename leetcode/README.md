@@ -12,9 +12,9 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] [Rotate Array](array-string/rotate-array.js) — Medium
 - [x] [Best Time to Buy and Sell Stock](array-string/best-time-to-buy-and-sell-stock.js) — Easy
 - [x] [Best Time to Buy and Sell Stock II](array-string/best-time-to-buy-and-sell-stock-ii.js) — Medium
-- [x] Jump Game — Medium
+- [x] [Jump Game](array-string/jump-game.js) — Medium
 - [ ] Jump Game II — Medium
-- [x] H-Index — Medium
+- [x] [H-Index](array-string/h-index.js) — Medium
 - [x] [Insert Delete GetRandom O(1)](array-string/insert-delete-getrandom-o1.js) — Medium
 - [x] [Product of Array Except Self](array-string/product-of-array-except-self.js) — Medium
 - [ ] Gas Station — Medium
@@ -33,7 +33,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 
 - [x] [Valid Palindrome](two-pointers/valid-palindrome.js) — Easy
 - [x] [Is Subsequence](two-pointers/is-subsequence.js) — Easy
-- [x] Two Sum II - Input Array Is Sorted — Medium
+- [x] [Two Sum II - Input Array Is Sorted](two-pointers/two-sum-ii-input-array-is-sorted.js) — Medium
 - [x] [Container With Most Water](two-pointers/container-with-most-water.js) — Medium
 - [x] [3Sum](two-pointers/3sum.js) — Medium
 
@@ -196,10 +196,10 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 
 ## Math
 
-- [x] Palindrome Number — Easy
-- [x] Plus One — Easy
+- [x] [Palindrome Number](math/palindrome-number.js) — Easy
+- [x] [Plus One](math/plus-one.js) — Easy
 - [ ] Factorial Trailing Zeroes — Medium
-- [x] Sqrt(x) — Easy
+- [x] [Sqrt(x)](math/sqrtx.js) — Easy
 - [ ] Pow(x, n) — Medium
 - [ ] Max Points on a Line — Hard
 
@@ -207,7 +207,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 
 - [x] [Climbing Stairs](1d-dp/climbing-stairs.js) — Easy
 - [x] [House Robber](1d-dp/house-robber.js) — Medium
-- [ ] Word Break — Medium
+- [x] [Word Break](1d-dp/word-break.js) — Medium
 - [x] [Coin Change](1d-dp/coin-change.js) — Medium
 - [ ] Longest Increasing Subsequence — Medium
 

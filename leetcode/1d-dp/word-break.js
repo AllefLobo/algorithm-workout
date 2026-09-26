@@ -4,24 +4,21 @@
  * @return {boolean}
  */
 var wordBreak = function (s, wordDict) {
-  let set = new Set(wordDict);
-
-  let dp = new Array();
-  let count = 0;
+  let dp = new Array(s.length + 1).fill(false);
+  dp[0] = true;
   for (let i = 0; i < s.length; i++) {
-    let word = s.substring(count, i);
-    console.log(word);
-    if (set.has(word)) {
-      count = i + 1;
-      dp[i] = true;
-    } else {
-      dp[i] = false;
+    let count = 0;
+    while (count < wordDict.length) {
+      let a = s.slice(i, i + wordDict[count].length);
+      if (dp[i] && a === wordDict[count]) {
+        dp[i + wordDict[count].length] = true;
+      }
+      count++;
     }
   }
-  console.log(dp);
-  return dp[s.length - 1];
+  return dp[s.length];
 };
 
-let s = "ab",
-  wordDict = ["a", "ab"];
+let s = "abcd",
+  wordDict = ["a", "abc", "b", "cd"];
 console.log(wordBreak(s, wordDict));

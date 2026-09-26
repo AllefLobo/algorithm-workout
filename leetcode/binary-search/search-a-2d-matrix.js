@@ -9,20 +9,22 @@ var searchMatrix = function (
   inicio = 0,
   fim = matrix.length - 1,
 ) {
-  console.log(matrix.length);
-  let meio = Math.floor(inicio + fim / 2);
-  if (matrix.length === 1) {
-    meio = Math.floor(inicio + fim / 2);
-  } else if (matrix[meio][0] === target) {
-    return true;
-  } else if (matrix[meio][0] > target) {
-    return searchMatrix(
-      matrix[meio - 1],
-      target,
-      0,
-      matrix[meio - 1].length - 1,
-    );
+  if (inicio < fim) {
+    let meio = Math.floor((inicio + fim) / 2);
+    let valueMeio = matrix[meio][0];
+
+    if (target === valueMeio) {
+      return true;
+    }
+
+    if (target < valueMeio) {
+      return searchMatrix(matrix, target, (inicio = inicio), (fim = meio - 1));
+    } else {
+      return searchMatrix(matrix, target, (inicio = meio + 1), (fim = fim));
+    }
   }
+
+  console.log(matrix[inicio], target, inicio, fim);
 };
 
 let matrix = [
@@ -30,5 +32,6 @@ let matrix = [
     [10, 11, 16, 20],
     [23, 30, 34, 60],
   ],
-  target = 3;
+  target = 20;
+
 console.log(searchMatrix(matrix, target));
