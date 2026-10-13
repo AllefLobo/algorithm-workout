@@ -48,7 +48,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 
 ## Matrix
 
-- [ ] Valid Sudoku — Medium
+- [x] [Valid Sudoku](matrix/valid-sudoku.js) — Medium
 - [ ] Spiral Matrix — Medium
 - [ ] Rotate Image — Medium
 - [ ] Set Matrix Zeroes — Medium
