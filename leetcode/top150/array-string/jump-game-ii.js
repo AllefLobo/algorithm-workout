@@ -3,16 +3,18 @@
  * @return {number}
  */
 var jump = function (nums) {
-  let matrix = Array.from({ length: nums.length }, () => Array(nums.length));
-  for (let i = 0; i < nums.length; i++) {
-    let count = 0;
-    let max = -Infinity;
-    while (count <= nums[i]) {
-      matrix[i][count] = nums[i + count];
-      count++;
+  let farthest = 0;
+  let currentEnd = 0;
+  let jumps = 0;
+
+  for (let i = 0; i < nums.length - 1; i++) {
+    farthest = Math.max(farthest, i + nums[i]);
+    if (currentEnd === i) {
+      currentEnd = farthest;
+      jumps++;
     }
   }
-  console.log(matrix);
+  return jumps;
 };
 
 let nums = [2, 3, 1, 1, 4];
