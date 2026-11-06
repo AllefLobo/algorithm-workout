@@ -3,16 +3,21 @@
  * @return {number[]}
  */
 var productExceptSelf = function (nums) {
-  let v = new Array(nums.length);
+  let prefix = 1;
+  let v = Array(nums.length);
   for (let i = 0; i < nums.length; i++) {
-    v[i] = nums.reduce((a, b, index) => {
-      return index === i ? a * 1 : a * b;
-    }, 1);
+    v[i] = prefix;
+    prefix = prefix * nums[i];
   }
+
+  let sufix = 1;
+  for (let i = nums.length - 1; i >= 0; i--) {
+    v[i] = v[i] * sufix;
+    sufix = sufix * nums[i];
+  }
+
   return v;
 };
 
-let nums = [4, 3, 2, 1, 2];
+let nums = [1, 2, 3, 4];
 console.log(productExceptSelf(nums));
-
-//[12,16,24,48,24]
