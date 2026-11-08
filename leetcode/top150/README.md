@@ -20,7 +20,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] [Gas Station](array/gas-station.js) — Medium
 - [x] [Candy](array/candy.js) — Hard
 - [x] [Trapping Rain Water](array/trapping-rain-water.js) — Hard
-- [ ] Roman to Integer — Easy
+- [x] [Roman to Integer](array/roman-to-integer.py) — Easy
 - [x] [Integer to Roman](array/integer-to-roman.js) — Medium
 - [x] [Length of Last Word](array/length-of-last-word.js) — Easy
 - [x] [Longest Common Prefix](array/longest-common-prefix.js) — Easy
