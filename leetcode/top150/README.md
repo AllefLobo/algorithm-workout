@@ -19,7 +19,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] [Product of Array Except Self](array-string/product-of-array-except-self.js) — Medium
 - [x] [Gas Station](array-string/gas-station.js) — Medium
 - [ ] Candy — Hard
-- [ ] Trapping Rain Water — Hard
+- [x] [Trapping Rain Water](array-string/trapping-rain-water.js) — Hard
 - [ ] Roman to Integer — Easy
 - [x] [Integer to Roman](array-string/integer-to-roman.js) — Medium
 - [x] [Length of Last Word](array-string/length-of-last-word.js) — Easy
