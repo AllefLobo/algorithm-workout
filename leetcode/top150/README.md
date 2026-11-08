@@ -4,30 +4,30 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 
 ## Array / String
 
-- [x] [Merge Sorted Array](array-string/merge-sorted-array.js) — Easy
-- [x] [Remove Element](array-string/remove-element.js) — Easy
-- [x] [Remove Duplicates from Sorted Array](array-string/remove-duplicates-from-sorted-array.js) — Easy
-- [x] [Remove Duplicates from Sorted Array II](array-string/remove-duplicates-from-sorted-array-ii.js) — Medium
-- [x] [Majority Element](array-string/majority-element.js) — Easy
-- [x] [Rotate Array](array-string/rotate-array.js) — Medium
-- [x] [Best Time to Buy and Sell Stock](array-string/best-time-to-buy-and-sell-stock.js) — Easy
-- [x] [Best Time to Buy and Sell Stock II](array-string/best-time-to-buy-and-sell-stock-ii.js) — Medium
-- [x] [Jump Game](array-string/jump-game.js) — Medium
-- [x] [Jump Game II](array-string/jump-game-ii.js) — Medium
-- [x] [H-Index](array-string/h-index.js) — Medium
-- [x] [Insert Delete GetRandom O(1)](array-string/insert-delete-getrandom-o1.js) — Medium
-- [x] [Product of Array Except Self](array-string/product-of-array-except-self.js) — Medium
-- [x] [Gas Station](array-string/gas-station.js) — Medium
+- [x] [Merge Sorted Array](array/merge-sorted-array.js) — Easy
+- [x] [Remove Element](array/remove-element.js) — Easy
+- [x] [Remove Duplicates from Sorted Array](array/remove-duplicates-from-sorted-array.js) — Easy
+- [x] [Remove Duplicates from Sorted Array II](array/remove-duplicates-from-sorted-array-ii.js) — Medium
+- [x] [Majority Element](array/majority-element.js) — Easy
+- [x] [Rotate Array](array/rotate-array.js) — Medium
+- [x] [Best Time to Buy and Sell Stock](array/best-time-to-buy-and-sell-stock.js) — Easy
+- [x] [Best Time to Buy and Sell Stock II](array/best-time-to-buy-and-sell-stock-ii.js) — Medium
+- [x] [Jump Game](array/jump-game.js) — Medium
+- [x] [Jump Game II](array/jump-game-ii.js) — Medium
+- [x] [H-Index](array/h-index.js) — Medium
+- [x] [Insert Delete GetRandom O(1)](array/insert-delete-getrandom-o1.js) — Medium
+- [x] [Product of Array Except Self](array/product-of-array-except-self.js) — Medium
+- [x] [Gas Station](array/gas-station.js) — Medium
 - [ ] Candy — Hard
-- [x] [Trapping Rain Water](array-string/trapping-rain-water.js) — Hard
+- [x] [Trapping Rain Water](array/trapping-rain-water.js) — Hard
 - [ ] Roman to Integer — Easy
-- [x] [Integer to Roman](array-string/integer-to-roman.js) — Medium
-- [x] [Length of Last Word](array-string/length-of-last-word.js) — Easy
-- [x] [Longest Common Prefix](array-string/longest-common-prefix.js) — Easy
-- [x] [Reverse Words in a String](array-string/reverse-words-in-a-string.js) — Medium
-- [x] [Zigzag Conversion](array-string/zigzag-conversion.js) — Medium
-- [x] [Find the Index of the First Occurrence in a String](array-string/find-the-index-of-the-first-occurrence-in-a-string.js) — Easy
-- [x] [Text Justification](array-string/text-justification.js) — Hard
+- [x] [Integer to Roman](array/integer-to-roman.js) — Medium
+- [x] [Length of Last Word](array/length-of-last-word.js) — Easy
+- [x] [Longest Common Prefix](array/longest-common-prefix.js) — Easy
+- [x] [Reverse Words in a String](array/reverse-words-in-a-string.js) — Medium
+- [x] [Zigzag Conversion](array/zigzag-conversion.js) — Medium
+- [x] [Find the Index of the First Occurrence in a String](array/find-the-index-of-the-first-occurrence-in-a-string.js) — Easy
+- [x] [Text Justification](array/text-justification.js) — Hard
 
 ## Two Pointers
 
