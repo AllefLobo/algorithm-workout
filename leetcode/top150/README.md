@@ -39,7 +39,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 
 ## Sliding Window
 
-- [ ] Minimum Size Subarray Sum — Medium
+- [x] [Minimum Size Subarray Sum](sliding-window/minimum-size-subarray-sum.js) — Medium
 - [ ] Longest Substring Without Repeating Characters — Medium
 - [ ] Substring with Concatenation of All Words — Hard
 - [ ] Minimum Window Substring — Hard
