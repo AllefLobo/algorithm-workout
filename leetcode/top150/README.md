@@ -76,7 +76,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 ## Stack
 
 - [x] [Valid Parentheses](stack/valid-parentheses.js) — Easy
-- [ ] Simplify Path — Medium
+- [x] [Simplify Path](stack/simplify-path.js) — Medium
 - [ ] Min Stack — Medium
 - [ ] Evaluate Reverse Polish Notation — Medium
 - [ ] Basic Calculator — Hard

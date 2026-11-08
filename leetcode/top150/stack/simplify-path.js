@@ -3,27 +3,25 @@
  * @return {string}
  */
 var simplifyPath = function (path) {
-  let v = new Array(path.length).fill("");
-  let count = 0;
-  for (let i = 0; i < path.length; i++) {
-    if (i > 0 && path[i] === "/") {
-      if (i === path.length - 1) {
+  let subPath = path.split("/");
+  let a = [];
+  for (let i = 0; i < subPath.length; i++) {
+    switch (subPath[i]) {
+      case ".":
         break;
-      }
-      if (v[count] === "/.") {
-        v[count] = "";
-        count = count - 1;
-      } else if (v[count] === "/..") {
-        v[count] = "";
-        count = count - 1 > 0 ? count - 1 : count;
-        v[count] = "";
-      } else {
-        count++;
-      }
+      case "":
+        break;
+      case "..":
+        if (a.length > 0) {
+          a.pop();
+        }
+        break;
+      default:
+        a.push(subPath[i]);
+        break;
     }
-    v[count] += path[i];
   }
-  return v.join("");
+  return "/" + a.join("/");
 };
 
 let path = "/home//foo/";
