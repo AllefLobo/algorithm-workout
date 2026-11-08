@@ -18,7 +18,7 @@ Exercícios [Top Interview 150](https://leetcode.com/studyplan/top-interview-150
 - [x] [Insert Delete GetRandom O(1)](array/insert-delete-getrandom-o1.js) — Medium
 - [x] [Product of Array Except Self](array/product-of-array-except-self.js) — Medium
 - [x] [Gas Station](array/gas-station.js) — Medium
-- [ ] Candy — Hard
+- [x] [Candy](array/candy.js) — Hard
 - [x] [Trapping Rain Water](array/trapping-rain-water.js) — Hard
 - [ ] Roman to Integer — Easy
 - [x] [Integer to Roman](array/integer-to-roman.js) — Medium
